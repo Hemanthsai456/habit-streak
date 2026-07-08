@@ -52,15 +52,9 @@ git clone https://github.com/your-username/Habit-Streak-Tracker.git
 
 ---
 
-## 📸 Screenshots
-
-> Add application screenshots here.
-
----
-
 ## 🌐 Live Demo
 
-> Add your deployment link here.
+> A[Live DEMO](https://habit-streak-ten.vercel.app/)
 
 ---
 
